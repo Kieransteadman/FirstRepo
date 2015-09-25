@@ -12,7 +12,7 @@ if(a>b):
     print('Obviously')
 else:
     print('b is bigger')
-    print('Duhh')
+    print('Duh')
 
 if(a==b):
     print('They are the same')
