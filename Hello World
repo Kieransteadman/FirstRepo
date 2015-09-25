@@ -1,0 +1,19 @@
+### Hello World
+### Kieran Steadman 25/09/15
+
+print('Hello World')
+
+a=int (input('What is a?'))
+b=int (input('What is b?'))
+
+
+if(a>b):
+    print('a is bigger')
+    print('Obviously')
+else:
+    print('b is bigger')
+
+if(a==b):
+    print('They are the same')
+
+print('That was exciting...')
